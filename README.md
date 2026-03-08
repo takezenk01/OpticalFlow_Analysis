@@ -25,3 +25,6 @@ The analysis consists of three main steps.
 Instead of analyzing the entire image, the analysis focuses on a **central horizontal band** where most pedestrian crossings occur.
 
 This reduces the influence of unrelated background motion.
+
+![ROI](images/roi_explanation.png)
+
